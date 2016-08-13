@@ -1,3 +1,5 @@
+pong:
+	g++ pong.cpp -o pong -lncurses
 getchar:
 	g++ test_getchar.cpp -o getchar -lncurses
 
