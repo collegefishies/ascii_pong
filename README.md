@@ -3,11 +3,14 @@ On linux, do
 $ sudo apt install libncurses5-dev
 
 Build main.cpp
-P1:
+#P1:
 	e,d
-P2: 
+
+#P2: 
 	i,k
-RESET:
+
+#RESET:
 	f9
-QUIT:
+
+#QUIT:
 	f1
